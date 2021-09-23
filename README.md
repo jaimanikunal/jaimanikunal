@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaimanikunal
 - 👀 I’m interested in Web development || Competitive programming || Frontend End development  
-- 🌱 I’m currently 3rd Year BTech student at Jaypee Institute of Information Technology.
+- 🌱 I’m currently Final Year BTech student at Jaypee Institute of Information Technology.
 - 💞️ I’m looking for an internship opportunity.
 - 📫 You can reach me at 
         -- Email : jaimanikunal@gmail.com
